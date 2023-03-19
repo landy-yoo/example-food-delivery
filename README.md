@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/487999/79708354-29074a80-82fa-11ea-80df-0db3962fb453.png)
 
 ![image](https://github.com/landy-yoo/example-food-delivery/blob/master/food_delivery_event.png)
-![image](https://github.com/landy-yoo/example-food-delivery/blob/master/fooddelivery_DDD.png)
+![image](https://github.com/landy-yoo/example-food-delivery/blob/master/food_delivery_DDD.png)
 
 
 # 예제 - 음식배달
